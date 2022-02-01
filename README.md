@@ -72,9 +72,13 @@
  index:
  
  ![image](https://user-images.githubusercontent.com/85685236/152067306-e23cbf33-d5e2-4836-8cf4-a08fbe76d8a3.png)
+ 
+ 
  admin:
  
  ![image](https://user-images.githubusercontent.com/85685236/152067400-d287bf3b-4686-4bec-8848-e02176c28d03.png)
+ 
+ 
   main:
   
   ![image](https://user-images.githubusercontent.com/85685236/152067438-41b8a4d3-4752-42f1-a046-11944807d959.png)
